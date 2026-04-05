@@ -1,0 +1,9 @@
+- we have a nav bar , which includes 3 pages home , browse and job. we also have profile icon which display bio section , view profile and logout.
+- in hero section we have some random message and a search bar which helps us to find job based on role.
+- we also have Carousel slider where we can look for job roles.
+- above footer section we have lastest job section which helps us to identify latest and top job openings ,inshort recently job postings posted by recruiters.
+- job posting or job data is maintain in cards format where card display job information including copmany name , location , no. of positions , salary description etc.
+- in Jobs page we have fliter jobs option where we can filter and find jobs based on location , industry or roles and salary.
+- important is data is persisted meaning even if we refreshed page data is non-volatile in nature or permenant.
+
+
